@@ -1,0 +1,1 @@
+export const NAME_PATTERN = /^[A-Z][a-z]{0,255}$/;
